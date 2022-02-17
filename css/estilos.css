@@ -1,0 +1,22 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #4f1;
+}
+
+.box-int__text {
+  width: 720px;
+  height: 480px;
+  background-color: beige;
+}
+
+.box-int__text .st-text__title {
+  text-align: center;
+  color: #4f1;
+  font-size: 40px;
+  cursor: pointer;
+}
